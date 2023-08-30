@@ -8,7 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/junior-cezar-santana-b33aa4206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junior-cezar-santana-b33aa4206/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15653690/cezar-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15653690/cezar-santana" height="30" width="40" /></a>
+<a href="https://twitter.com/cezarj59" target="_blank"><img align="center" src="URL_DA_IMAGEM_DO_TWITTER" alt="Twitter" height="30" width="30" /></a>
+<a href="https://www.reddit.com/user/_Cezarj59/" target="_blank"><img align="center" src="URL_DA_IMAGEM_DO_REDDIT" alt="Reddit" height="30" width="30" /></a>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
