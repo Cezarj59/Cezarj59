@@ -8,12 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/junior-cezar-santana-b33aa4206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junior-cezar-santana-b33aa4206/" height="30" width="40" /></a>
-<a href="https://twitter.com/cezarj59" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" version="1.1">
- <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-</svg>
-</a>
-
+<a href="https://twitter.com/cezarj59" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" /></a>
 <a href="https://www.reddit.com/user/_Cezarj59/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="30" /></a>
 
 
