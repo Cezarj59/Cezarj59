@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/junior-cezar-santana-b33aa4206/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
- <a href="https://twitter.com/cezarj59" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=VlBwFtdwgxko&format=png" alt="Twitter" height="30" width="30" /></a>
+ <a href="https://twitter.com/cezarj59" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=MXBbMPdVajTR&format=png" alt="Twitter" height="30" width="30" /></a>
   <a href="https://www.reddit.com/user/_Cezarj59/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="30" />
   </a>
