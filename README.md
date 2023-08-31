@@ -11,7 +11,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/cezarj59" target="blank">
-    <img align="center" src="https://icons8.com.br/icon/ClbD5JTFM7FA/twitterx" alt="Twitter" height="30" width="30" />
+    <img align="center" src="[https://icons8.com.br/icon/ClbD5JTFM7FA/twitterx](https://icons8.com.br/icon/ClbD5JTFM7FA/twitterx)" alt="Twitter" height="30" width="30" />
   </a>
   <a href="https://www.reddit.com/user/_Cezarj59/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="30" />
