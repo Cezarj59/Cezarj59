@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junior Cezar</h1>
+<h1 align="center">I'm Cezar</h1>
 <h3 align="center">Software development student at It Step Computer Brasil, and I'm specializing in backend development at Positivo University in Curitiba-PR.</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, NodeJs, MongoDB, PostgreSQL, jQuery,Oracle, MySQL, Bootstrap, HTML5, CSS3**
