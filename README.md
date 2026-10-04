@@ -1,5 +1,5 @@
 <h1 align="center">I'm Cezar</h1>
-<h3 align="center">Software development student at It Step Computer Brasil, and I'm specializing in backend development at Positivo University in Curitiba-PR.</h3>
+<h3 align="center">Graduated in Software Development at IT Step Academy Brasil, currently pursuing a specialization in Backend Development at Universidade Positivo (Curitiba, PR). Working as an independent developer, designing and delivering custom software solutions.</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, NodeJs, MongoDB, PostgreSQL, jQuery,Oracle, MySQL, Bootstrap, HTML5, CSS3**
 
