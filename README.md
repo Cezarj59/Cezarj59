@@ -1,7 +1,7 @@
 <h1 align="center">I'm Cezar</h1>
 <h3 align="center">Software Developer with degrees from IT Step Academy Brasil and Universidade Positivo, specializing in Backend Development. Actively working as an independent software developer, building end-to-end applications, database architecture, and custom backend solutions.</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript, NodeJs, MongoDB, PostgreSQL, jQuery,Oracle, MySQL, Bootstrap, HTML5, CSS3**
+- 🌱 **Java, Spring, JavaScript, NodeJs, React, MongoDB, PostgreSQL, jQuery, Oracle, MySQL, Bootstrap, HTML5, CSS3**
 
 - 📫 How to reach me **cezarj59@gmail.com**
 
